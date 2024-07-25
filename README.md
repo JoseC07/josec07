@@ -6,15 +6,6 @@
 
 <h2 align="center">Full-Stack Dev</h2>
 
-
-## About Me
-
-<p align="center">
-  I am a motivated individual passionate about full-stack JavaScript development. My primary focus is on React.js, Django, Next.js, and Expo + React Native. I also have experience with C++ and Python.
-</p>
-
----
-
 ## Professional Summary
 
 <p align="center">
