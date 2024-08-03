@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://caudillojose.com" target="_blank">
-    <span>✨ Jose G. Caudillo Jr ✨</span>
+    <span>Jose G. Caudillo Jr⚡</span>
   </a>
 </h1>
 
