@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-<h2 align="center">Full-Stack Dev</h2>
 
 ## Professional Summary
 
