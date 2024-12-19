@@ -1,4 +1,4 @@
-guys please im working to update.. 
+If you found my account you found the right person.
 
 
 focusing on building desktop apps..
