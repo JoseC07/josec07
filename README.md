@@ -1,6 +1,5 @@
-If you found my account you found the right person.
+If you found my account you have spent too much time on the internet! 
 
+Frontend/Full-stack Dev -> System Admin/Data Analyst -> IT community Instructor -> **Cloud Engineering**
 
-focusing on building desktop apps..
-
-I also like to learn about mlops pipelines so will post these here soon!
+I am very interested in learning about DevOps and MLOps.
