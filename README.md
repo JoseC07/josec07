@@ -2,12 +2,12 @@
 
 Hi there! If you've found this profile, you've spent just the right amount of time on the internet! 🌱
 
-I'm Jose, a **Cloud Engineer** with a versatile background:
+I'm Jose, a **Builder** with a versatile background:
 
 - 🌟 **Frontend/Full-stack Developer**  
 - 🌾 **System Administrator/Data Analyst**  
 - 🍀 **IT Community Instructor**  
-- 🌳 **Cloud Engineer**
+- 🌳 **Cloud Engineering**
 
 ## 🌼 Specialties:
 - Full-stack development (React, Next.js)  
