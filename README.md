@@ -7,7 +7,6 @@ I'm Jose, a **Builder** with a versatile background:
 - 🌟 **Frontend/Full-stack Developer**  
 - 🌾 **System Administrator/Data Analyst**  
 - 🍀 **IT Community Instructor**  
-- 🌳 **Cloud Engineering**
 
 ## 🌼 Specialties:
 - Full-stack development (React, Next.js)  
